@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">打卡助手</string>
+    <string name="action_settings">设置应到天数</string>
+    <string name="action_add_record">添加打卡记录</string>
+    <string name="txtShouldTimes">应到天数：</string>
+    <string name="txtInputShouldTimes">请输入应到天数</string>
+    <string name="txtSave">保存</string>
+    <string name="txtCancel">取消</string>
+    <string name="txtAddRecord">添加记录</string>
+    <string name="txtGoBack">返回</string>
+    <string name="regDate">打卡日期</string>
+    <string name="regPeriod">打卡时段</string>
+    <string name="morning">上午</string>
+    <string name="afternoon">下午</string>
+    <string name="realTimes">实到</string>
+    <string name="shouldTimes">应到</string>
+
+</resources>
